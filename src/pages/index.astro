@@ -1,0 +1,10 @@
+---
+import Layout from "../layouts/Layout.astro";
+const users = ['user1', 'user2', 'user3'];
+---
+<Layout title="Index page">
+  <p x-data="{Indextext: 'Index page content'}" x-text="Indextext"></p>
+  <ul>
+    {users.map((user)=><li>{user}</li>)}
+  </ul>
+</Layout>
