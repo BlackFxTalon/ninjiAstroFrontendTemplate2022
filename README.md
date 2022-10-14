@@ -10,10 +10,6 @@ template for frontend development 2022(based on Astro.js WebFramework)
 <li>js: alpine.js framework (Astro integration)</li>
 <ul>
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
